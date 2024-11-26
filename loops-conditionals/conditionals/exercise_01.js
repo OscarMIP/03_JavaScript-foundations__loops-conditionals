@@ -7,3 +7,19 @@
 
     HINT: The modulus operator ( % ) is your friend.
 */
+
+let number = 5;
+
+if (number%2==0){
+    console.log("Number "+number+" is even");
+}else{
+    console.log("Number "+number+" is odd");
+}
+
+number = 3;
+
+if (number%2==0){
+    console.log("Number "+number+" is even");
+}else{
+    console.log("Number "+number+" is odd");
+}
